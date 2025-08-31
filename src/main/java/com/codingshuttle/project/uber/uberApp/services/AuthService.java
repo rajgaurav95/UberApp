@@ -12,4 +12,3 @@ public interface AuthService {
 
     DriverDto onboardNewDriver(Long userId);
 }
-
